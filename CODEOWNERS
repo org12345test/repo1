@@ -1,2 +1,1 @@
-Main* @org12345test/artem
-*.java @denis
+*.java @org12345test/artem
